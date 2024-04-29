@@ -1,4 +1,5 @@
-*.config
+assignment_08.ipynb
+_build/
 .DS_Store
-.tmp
-.otter_log
+*.log
+*.tmp
